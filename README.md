@@ -81,7 +81,11 @@ The included Jupyter Notebook (model_training.ipynb) covers:
 ## Future Enhancements
 
 Add confidence intervals or probability distributions for predictions
+
 Incorporate map-based visualization or geospatial inputs (e.g., neighborhood heatmaps)
+
 UI makeover using Bootstrap or custom Streamlit themes
+
 Deploy to Docker or cloud platforms (Heroku, Render, AWS Lambda)
+
 Add explainability tools like SHAP for feature importance insights

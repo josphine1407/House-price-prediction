@@ -53,15 +53,19 @@ streamlit run app.py
 
 ## How It Works
 1. Input
+
 Fill in property details like number of bedrooms, square footage, location, age, etc.
 
 2. Preprocessing
+
 The app cleans and encodes inputs (e.g., categorical encoding, feature scaling).
 
 3. Regression Model
+
 A pre-trained model (model.pkl) processes the features and outputs a predicted price.
 
 4. Display
+
 The predicted price is shown instantly on the Streamlit dashboard in a neat format.
 
 ## Model Training (in Notebook)
